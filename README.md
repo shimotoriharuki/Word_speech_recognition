@@ -1,0 +1,2 @@
+# Word_speech_recognition
+2020 認識工学で作成したレポートに関連するリポジトリ
